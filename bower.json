@@ -1,0 +1,23 @@
+{
+  "name": "Heatmap",
+  "description": "Heatmap module for API Yandex.Maps",
+  "main": "build/heatmap.js",
+  "authors": [
+    "Morozov Andrey <alt-j@yandex-team.ru>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "yandex",
+    "maps",
+    "heatmap"
+  ],
+  "homepage": "https://github.com/stenleegunz/mapsapi-heatmap",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
